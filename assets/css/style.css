@@ -159,6 +159,12 @@ font-size: 14px;
     padding: 24px;
 }
 
+.grid-faq{
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+}
+
 .vertical-menu
 {
     width: 412.8px;
